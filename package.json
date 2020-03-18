@@ -1,0 +1,19 @@
+{
+  "name": "lognographer",
+  "version": "1.0.0",
+  "description": "Super simpler colorized logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "simpler"
+  ],
+  "author": "Bradley D. Cooper",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "3.0.0",
+    "json-colorizer": "2.2.1"
+  }
+}
