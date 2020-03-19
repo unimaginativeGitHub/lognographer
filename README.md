@@ -1,6 +1,5 @@
 # lognographer
 Super simple logger that adds colorizing and beautifying of objects.
-> Timestamps coming soon!
 
 ---
 
